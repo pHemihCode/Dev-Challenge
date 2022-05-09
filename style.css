@@ -54,6 +54,9 @@ button{
     padding:5px;
     font-size:10px;
 }
+.mybtn:hover{
+     opacity: 0.3;
+}
 .foot{
        text-align:center;
        font-size: 15px;
